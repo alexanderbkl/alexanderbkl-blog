@@ -8,7 +8,7 @@ const siteMetadata = {
   description: 'A blog related to my personal projects and my journey as a developer',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'localhost',
+  siteUrl: 'https://alexanderbkl-blog-612c8dhic-alexanderbkl.vercel.app/',
   siteRepo: 'https://github.com/alexanderbkl/alexanderbkl-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
