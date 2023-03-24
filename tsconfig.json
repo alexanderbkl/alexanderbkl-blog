@@ -38,6 +38,6 @@
     ".contentlayer/generated",
     ".contentlayer/generated/**/*.json",
     ".next/types/**/*.ts"
-  ],
+, "scripts/compose.js"  ],
   "exclude": ["node_modules"]
 }
