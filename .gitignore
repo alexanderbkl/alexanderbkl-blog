@@ -20,8 +20,7 @@ public/sitemap.xml
 
 # production
 /build
-*.xml
-!BingSiteAuth.xml
+
 
 # rss feed
 /public/feed.xml

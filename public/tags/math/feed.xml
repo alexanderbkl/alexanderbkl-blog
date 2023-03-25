@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Diary of a developer | Alexander Baikalov</title>
+      <link>https://diaryofadev.vercel.app/blog</link>
+      <description>A blog related to my personal projects and my journey as a developer</description>
+      <language>en-us</language>
+      <managingEditor>alexander.baikalov@inslapineda.cat (Aleksandr Baikálov)</managingEditor>
+      <webMaster>alexander.baikalov@inslapineda.cat (Aleksandr Baikálov)</webMaster>
+      <lastBuildDate>Mon, 21 Dec 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://diaryofadev.vercel.app/tags/math/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://diaryofadev.vercel.app/blog/deriving-ols-estimator</guid>
+    <title>Deriving the OLS Estimator</title>
+    <link>https://diaryofadev.vercel.app/blog/deriving-ols-estimator</link>
+    <description>How to derive the OLS Estimator with matrix notation and a tour of math typesetting using markdown with the help of KaTeX.</description>
+    <pubDate>Mon, 21 Dec 2020 00:00:00 GMT</pubDate>
+    <author>alexander.baikalov@inslapineda.cat (Aleksandr Baikálov)</author>
+    <category>next js</category><category>math</category><category>ols</category>
+  </item>
+
+    </channel>
+  </rss>

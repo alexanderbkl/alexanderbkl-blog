@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Diary of a developer | Alexander Baikalov</title>
+      <link>https://diaryofadev.vercel.app/blog</link>
+      <description>A blog related to my personal projects and my journey as a developer</description>
+      <language>en-us</language>
+      <managingEditor>alexander.baikalov@inslapineda.cat (Aleksandr Baikálov)</managingEditor>
+      <webMaster>alexander.baikalov@inslapineda.cat (Aleksandr Baikálov)</webMaster>
+      <lastBuildDate>Wed, 15 Aug 2018 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://diaryofadev.vercel.app/tags/writings/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://diaryofadev.vercel.app/blog/the-time-machine</guid>
+    <title>The Time Machine</title>
+    <link>https://diaryofadev.vercel.app/blog/the-time-machine</link>
+    <description>The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. His pale grey eyes shone and twinkled, and his usually pale face was flushed and animated...</description>
+    <pubDate>Wed, 15 Aug 2018 00:00:00 GMT</pubDate>
+    <author>alexander.baikalov@inslapineda.cat (Aleksandr Baikálov)</author>
+    <category>writings</category><category>book</category><category>reflection</category>
+  </item>
+
+    </channel>
+  </rss>

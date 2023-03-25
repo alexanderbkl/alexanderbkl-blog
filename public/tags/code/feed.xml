@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Diary of a developer | Alexander Baikalov</title>
+      <link>https://diaryofadev.vercel.app/blog</link>
+      <description>A blog related to my personal projects and my journey as a developer</description>
+      <language>en-us</language>
+      <managingEditor>alexander.baikalov@inslapineda.cat (Aleksandr Baikálov)</managingEditor>
+      <webMaster>alexander.baikalov@inslapineda.cat (Aleksandr Baikálov)</webMaster>
+      <lastBuildDate>Tue, 08 Mar 2016 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://diaryofadev.vercel.app/tags/code/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://diaryofadev.vercel.app/blog/code-sample</guid>
+    <title>Sample .md file</title>
+    <link>https://diaryofadev.vercel.app/blog/code-sample</link>
+    <description>Example of a markdown file with code blocks and syntax highlighting</description>
+    <pubDate>Tue, 08 Mar 2016 00:00:00 GMT</pubDate>
+    <author>alexander.baikalov@inslapineda.cat (Aleksandr Baikálov)</author>
+    <category>markdown</category><category>code</category><category>features</category>
+  </item>
+
+    </channel>
+  </rss>
