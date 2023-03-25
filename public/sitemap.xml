@@ -135,9 +135,4 @@
   <url>
     <loc>https://diaryofadev.vercel.app/blog/the-time-machine</loc>
   </url>
-
-  <url>
-    <loc
-      >https://diaryofadev.vercel.app/blog/nested-route/introducing-multi-part-posts-with-nested-routing</loc>
-  </url>
 </urlset>
