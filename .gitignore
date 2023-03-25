@@ -15,15 +15,19 @@
 # next.js
 /.next/
 /out/
+public/sitemap.xml
 .vercel
 
 # production
 /build
-
+*.xml
+!BingSiteAuth.xml
 
 # rss feed
+/public/feed.xml
 
 # search
+/public/search.json
 
 # misc
 .DS_Store
