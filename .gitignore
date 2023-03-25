@@ -24,7 +24,6 @@
 # rss feed
 
 # search
-/public/search.json
 
 # misc
 .DS_Store
