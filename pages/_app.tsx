@@ -12,19 +12,36 @@ import siteMetadata from '@/data/siteMetadata'
 import { Analytics } from 'pliny/analytics'
 import { SearchProvider } from 'pliny/search'
 import LayoutWrapper from '@/components/LayoutWrapper'
+import Script from 'next/script';
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
-    <ThemeProvider attribute="class" defaultTheme={siteMetadata.theme}>
-      <Head>
-        <meta content="width=device-width, initial-scale=1" name="viewport" />
-      </Head>
-      <Analytics analyticsConfig={siteMetadata.analytics} />
-      <LayoutWrapper>
-        <SearchProvider searchConfig={siteMetadata.search}>
-          <Component {...pageProps} />
-        </SearchProvider>
-      </LayoutWrapper>
-    </ThemeProvider>
+    <>
+      <ThemeProvider attribute="class" defaultTheme={siteMetadata.theme}>
+        <Head>
+          <meta content="width=device-width, initial-scale=1" name="viewport" />
+        </Head>
+
+        <Analytics analyticsConfig={siteMetadata.analytics} />
+        <LayoutWrapper>
+          <SearchProvider searchConfig={siteMetadata.search}>
+            <Component {...pageProps} />
+          </SearchProvider>
+        </LayoutWrapper>
+      </ThemeProvider>
+      <Script
+        src="https://www.googletagmanager.com/gtag/js?id=G-0Q0YG5K1Q4"
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){window.dataLayer.push(arguments);}
+            gtag('js', new Date());
+  
+            gtag('config', 'G-0Q0YG5K1Q4');
+          `}
+      </Script>
+    </>
   )
 }
