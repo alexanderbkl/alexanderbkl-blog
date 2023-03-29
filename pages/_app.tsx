@@ -12,7 +12,7 @@ import siteMetadata from '@/data/siteMetadata'
 import { Analytics } from 'pliny/analytics'
 import { SearchProvider } from 'pliny/search'
 import LayoutWrapper from '@/components/LayoutWrapper'
-import Script from 'next/script';
+import Script from 'next/script'
 
 export default function App({ Component, pageProps }: AppProps) {
   return (
