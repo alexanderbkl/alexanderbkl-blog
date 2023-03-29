@@ -6,6 +6,19 @@ class MyDocument extends Document {
     return (
       <Html lang={siteMetadata.language} className="scroll-smooth">
         <Head>
+          <script async src={`https://www.googletagmanager.com/gtag/js?id=G-0Q0YG5K1Q4`} />
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-0Q0YG5K1Q4}', {
+              page_path: window.location.pathname,
+            });
+          `,
+            }}
+          />
           <link rel="apple-touch-icon" sizes="76x76" href="/static/favicons/apple-touch-icon.png" />
           <link
             rel="icon"
