@@ -29,11 +29,19 @@
   </url>
 
   <url>
+    <loc>https://diaryofadev.vercel.app/tags/certificate</loc>
+  </url>
+
+  <url>
     <loc>https://diaryofadev.vercel.app/tags/chatgpt</loc>
   </url>
 
   <url>
     <loc>https://diaryofadev.vercel.app/tags/code</loc>
+  </url>
+
+  <url>
+    <loc>https://diaryofadev.vercel.app/tags/express</loc>
   </url>
 
   <url>
@@ -45,6 +53,18 @@
   </url>
 
   <url>
+    <loc>https://diaryofadev.vercel.app/tags/finnisheducation</loc>
+  </url>
+
+  <url>
+    <loc>https://diaryofadev.vercel.app/tags/freecourse</loc>
+  </url>
+
+  <url>
+    <loc>https://diaryofadev.vercel.app/tags/fullstackopen</loc>
+  </url>
+
+  <url>
     <loc>https://diaryofadev.vercel.app/tags/github</loc>
   </url>
 
@@ -53,7 +73,15 @@
   </url>
 
   <url>
+    <loc>https://diaryofadev.vercel.app/tags/graphql</loc>
+  </url>
+
+  <url>
     <loc>https://diaryofadev.vercel.app/tags/guide</loc>
+  </url>
+
+  <url>
+    <loc>https://diaryofadev.vercel.app/tags/highqualityeducation</loc>
   </url>
 
   <url>
@@ -77,6 +105,10 @@
   </url>
 
   <url>
+    <loc>https://diaryofadev.vercel.app/tags/mongodb</loc>
+  </url>
+
+  <url>
     <loc>https://diaryofadev.vercel.app/tags/multi-author</loc>
   </url>
 
@@ -85,7 +117,15 @@
   </url>
 
   <url>
+    <loc>https://diaryofadev.vercel.app/tags/nodejs</loc>
+  </url>
+
+  <url>
     <loc>https://diaryofadev.vercel.app/tags/ols</loc>
+  </url>
+
+  <url>
+    <loc>https://diaryofadev.vercel.app/tags/react</loc>
   </url>
 
   <url>
@@ -93,7 +133,15 @@
   </url>
 
   <url>
+    <loc>https://diaryofadev.vercel.app/tags/rest</loc>
+  </url>
+
+  <url>
     <loc>https://diaryofadev.vercel.app/tags/tailwind</loc>
+  </url>
+
+  <url>
+    <loc>https://diaryofadev.vercel.app/tags/universityofhelsinki</loc>
   </url>
 
   <url>
@@ -114,6 +162,10 @@
 
   <url>
     <loc>https://diaryofadev.vercel.app/blog/github-markdown-guide</loc>
+  </url>
+
+  <url>
+    <loc>https://diaryofadev.vercel.app/blog/gpt4-will-affect-your-job-new-study-released</loc>
   </url>
 
   <url>

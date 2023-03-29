@@ -31,6 +31,16 @@
   </item>
 
   <item>
+    <guid>https://diaryofadev.vercel.app/blog/finnish-education-in-tech-my-experience-with-fullstackopen-course</guid>
+    <title>Finnish Education in Tech: My Experience with FullStackOpen Course</title>
+    <link>https://diaryofadev.vercel.app/blog/finnish-education-in-tech-my-experience-with-fullstackopen-course</link>
+    <description>Unlock the secrets of modern education, Full Stack Development with the Finnish course. My Mind-Blowing experience with Finnish Education will leave you wanting more!</description>
+    <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+    <author>alexander.baikalov@inslapineda.cat (Aleksandr Baikálov)</author>
+    <category>NodeJS</category><category>Express</category><category>React</category><category>MongoDB</category><category>GraphQL</category><category>REST</category><category>FullStackOpen</category><category>UniversityOfHelsinki</category><category>FinnishEducation</category><category>FreeCourse</category><category>Certificate</category><category>HighQualityEducation</category>
+  </item>
+
+  <item>
     <guid>https://diaryofadev.vercel.app/blog/github-markdown-guide</guid>
     <title>Markdown Guide</title>
     <link>https://diaryofadev.vercel.app/blog/github-markdown-guide</link>
@@ -44,16 +54,6 @@
     <guid>https://diaryofadev.vercel.app/blog/gpt4-will-affect-your-job-new-study-released</guid>
     <title>GPT-4 WILL affect YOUR JOB - new study released</title>
     <link>https://diaryofadev.vercel.app/blog/gpt4-will-affect-your-job-new-study-released</link>
-    <description>OpenAI has recently created GPT-4, a new language model that shows promising improvements over its predecessor, GPT-3.5. In this blog post, we&#39;ll explore some of the features and capabilities of GPT-4 and discuss how it might impact the future of AI and human collaboration.</description>
-    <pubDate>Sat, 25 Mar 2023 00:00:00 GMT</pubDate>
-    <author>alexander.baikalov@inslapineda.cat (Aleksandr Baikálov)</author>
-    <category>GPT-4</category><category>language models</category><category>AI</category><category>ChatGPT</category>
-  </item>
-
-  <item>
-    <guid>https://diaryofadev.vercel.app/blog/gpt4-will-affect-your-job</guid>
-    <title>GPT-4 WILL affect YOUR JOB - new study released</title>
-    <link>https://diaryofadev.vercel.app/blog/gpt4-will-affect-your-job</link>
     <description>OpenAI has recently created GPT-4, a new language model that shows promising improvements over its predecessor, GPT-3.5. In this blog post, we&#39;ll explore some of the features and capabilities of GPT-4 and discuss how it might impact the future of AI and human collaboration.</description>
     <pubDate>Sat, 25 Mar 2023 00:00:00 GMT</pubDate>
     <author>alexander.baikalov@inslapineda.cat (Aleksandr Baikálov)</author>
