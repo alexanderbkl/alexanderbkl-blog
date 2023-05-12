@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>alexander.baikalov@inslapineda.cat (Aleksandr Baikálov)</managingEditor>
       <webMaster>alexander.baikalov@inslapineda.cat (Aleksandr Baikálov)</webMaster>
-      <lastBuildDate>Sat, 25 Mar 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 14 Apr 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://diaryofadev.vercel.app/tags/language-models/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://diaryofadev.vercel.app/blog/chatgpt-quantum-computing</guid>
+    <title>ChatGPT discusses the use of photonic crystals in Quantum Computing</title>
+    <link>https://diaryofadev.vercel.app/blog/chatgpt-quantum-computing</link>
+    <description>So again, ChatGPT surprised me in a good manner! It&#39;s always a though I had wandering around my head, what would happen if we try to trap light between two mirrors.</description>
+    <pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+    <author>alexander.baikalov@inslapineda.cat (Aleksandr Baikálov)</author>
+    <category>GPT-3</category><category>language models</category><category>AI</category><category>ChatGPT</category><category>quantum computing</category>
+  </item>
+
   <item>
     <guid>https://diaryofadev.vercel.app/blog/gpt4-will-affect-your-job-new-study-released</guid>
     <title>GPT-4 WILL affect YOUR JOB - new study released</title>

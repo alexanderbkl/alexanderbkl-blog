@@ -25,11 +25,11 @@
   </url>
 
   <url>
-    <loc>https://diaryofadev.vercel.app/tags/canada</loc>
+    <loc>https://diaryofadev.vercel.app/tags/certificate</loc>
   </url>
 
   <url>
-    <loc>https://diaryofadev.vercel.app/tags/certificate</loc>
+    <loc>https://diaryofadev.vercel.app/tags/canada</loc>
   </url>
 
   <url>
@@ -70,6 +70,10 @@
 
   <url>
     <loc>https://diaryofadev.vercel.app/tags/gpt-4</loc>
+  </url>
+
+  <url>
+    <loc>https://diaryofadev.vercel.app/tags/gpt-3</loc>
   </url>
 
   <url>
@@ -125,6 +129,10 @@
   </url>
 
   <url>
+    <loc>https://diaryofadev.vercel.app/tags/quantum-computing</loc>
+  </url>
+
+  <url>
     <loc>https://diaryofadev.vercel.app/tags/react</loc>
   </url>
 
@@ -141,15 +149,19 @@
   </url>
 
   <url>
-    <loc>https://diaryofadev.vercel.app/tags/universityofhelsinki</loc>
-  </url>
-
-  <url>
     <loc>https://diaryofadev.vercel.app/tags/web3</loc>
   </url>
 
   <url>
+    <loc>https://diaryofadev.vercel.app/tags/universityofhelsinki</loc>
+  </url>
+
+  <url>
     <loc>https://diaryofadev.vercel.app/tags/writings</loc>
+  </url>
+
+  <url>
+    <loc>https://diaryofadev.vercel.app/blog/chatgpt-quantum-computing</loc>
   </url>
 
   <url>
@@ -158,6 +170,12 @@
 
   <url>
     <loc>https://diaryofadev.vercel.app/blog/deriving-ols-estimator</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://diaryofadev.vercel.app/blog/finnish-education-in-tech-my-experience-with-fullstackopen-course</loc
+    >
   </url>
 
   <url>
