@@ -7,14 +7,20 @@ import 'katex/dist/katex.css'
 import { ThemeProvider } from 'next-themes'
 import type { AppProps } from 'next/app'
 import Head from 'next/head'
+import { useEffect } from 'react'
 
 import siteMetadata from '@/data/siteMetadata'
 import { Analytics } from 'pliny/analytics'
 import { SearchProvider } from 'pliny/search'
 import LayoutWrapper from '@/components/LayoutWrapper'
 import Script from 'next/script'
+import { inject } from '@vercel/analytics'
 
 export default function App({ Component, pageProps }: AppProps) {
+  useEffect(() => {
+    inject()
+  }, [])
+
   return (
     <>
       <ThemeProvider attribute="class" defaultTheme={siteMetadata.theme}>
