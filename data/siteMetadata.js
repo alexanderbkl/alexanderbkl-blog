@@ -2,9 +2,9 @@
 
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Diary of a developer | Alexander Baikalov',
-  author: 'Aleksandr Baikálov',
-  headerTitle: 'Diary of a developer | Alexander Baikalov',
+  title: 'Diary of a developer | Aleks',
+  author: 'Aleks',
+  headerTitle: 'Diary of a developer | Aleks',
   description: 'A blog related to my personal projects and my journey as a developer',
   language: 'en-us',
   theme: 'system', // system, dark or light
@@ -13,12 +13,12 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'alexander.baikalov@inslapineda.cat',
+  email: '',
   github: 'https://github.com/alexanderbkl',
   twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com/in/alexander-baikalov-9522726/',
+  linkedin: '',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
